@@ -3,5 +3,6 @@
 
 # Hax Revolution
 
-- Discord: discord.gg/haxrevolution
+- Discord: [discord.gg/haxrevolution](https://discord.gg/haxrevolution)
+<a href="https://discord.gg/haxrevolution"><img src="https://discord.com/api/guilds/1234973864862416997/widget.png?style=banner3"></a>
 
