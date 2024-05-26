@@ -1,12 +1,9 @@
-## Hi there 👋
+![banner](https://github.com/FNLB-Project/.github/assets/57068341/dc2b1416-bef5-4d15-b893-2211b442755a)
 
+<a href="https://discord.gg/haxrevolution"><img width="110" height="110" align="right" alt="HaxRevolution" src="https://cdn.discordapp.com/attachments/1180680174233202761/1244309776838426695/banner_discord.png?ex=6654a548&is=665353c8&hm=6c75f6897a426ef9e18d01b6eb268242ddd4a9b81ba14f198a3e37769e9e2aa5&" /></a>
 <!--
 
-**Here are some ideas to get you started:**
+# Hax Revolution Links
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- Discord: discord.gg/haxrevolution
 -->
